@@ -1,0 +1,5 @@
+Der Nutzer muss nun, zusätzlich zum Task-Titel, auch ein Fälligkeitsdatum für jeden Task angeben. 
+Dies geschieht über ein zusätzliches Eingabefeld (siehe Screenshots).
+Modellieren Sie den komplexen Datentyp TaskItem der den Titel und das Fälligkeitsdatum
+enthält. Anschließend müssen Sie ein Layout für die Listeneinträge anlegen.
+Um den View mit den Daten der TaskItems zu befüllen, schreiben Sie noch einen TaskListAdapter, welcher von ArrayAdapter erbt und diesen erweitert.

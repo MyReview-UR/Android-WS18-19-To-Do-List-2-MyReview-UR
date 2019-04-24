@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jonas/Dokumente/Android/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/jonas/Dokumente/Android/ToDoList/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-bea730302401e1322706e36146255c8ae0d772bf.jar" />
+    </item>
+    <item
+        jar="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-4a6237f8d4dcce65af4ff64385024a9cfa215186.jar" />
+    </item>
+    <item
+        jar="/home/jonas/Dokumente/Android/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/jonas/Dokumente/Android/ToDoList/app/build/intermediates/pre-dexed/debug/classes-9d2938ff1943ca8e3e5c7165bbf54f6edfe788ee.jar" />
+    </item>
+    <item
+        jar="/home/jonas/Dokumente/Android/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/jonas/Dokumente/Android/ToDoList/app/build/intermediates/pre-dexed/debug/classes-f9310051b741243c8c10a974f0fdf8d7c8f90d61.jar" />
+    </item>
+    <item
+        jar="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/pre-dexed/debug/classes-4c847ed6b9f2a239f4cba1e0d2c92cfb5e684397.jar" />
+    </item>
+    <item
+        jar="/home/jonas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-99d1881f4f5a6077972adf46b534c6c9eada66a5.jar" />
+    </item>
+    <item
+        jar="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/jonas/AndroidStudioProjects/ToDoList/app/build/intermediates/pre-dexed/debug/classes-72eaf575f44e06d10e694f0498ab859b2c9ebd13.jar" />
+    </item>
+
+</items>
